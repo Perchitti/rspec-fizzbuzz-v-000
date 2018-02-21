@@ -8,4 +8,5 @@ def fizzbuzz(x)
  end
 end
 
+fizzbuzz(3) = "Fizz"
 fizzbuzz(15)
