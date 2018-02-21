@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-  if x / 3 
+  if x / 3
     puts "Fizz"
   elsif   x / 5
     puts "Buzz"
@@ -9,6 +9,4 @@ def fizzbuzz(x)
 end
 
 
-fizzbuzz(28
-
-)
+fizzbuzz(28)
