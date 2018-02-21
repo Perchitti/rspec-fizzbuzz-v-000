@@ -1,10 +1,10 @@
 def fizzbuzz(x)
   if x / 3 == 0
-    puts "Fizz"
+    prints "Fizz"
   elsif x / 5 == 0
-    puts "Buzz"
+    prints "Buzz"
   else x / 3 == 0 && x / 5 == 0
-    puts "FizzBuzz"
+    prints "FizzBuzz"
  end
 end
 
