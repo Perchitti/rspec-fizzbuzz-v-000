@@ -3,8 +3,9 @@ def fizzbuzz(x)
     puts "FizzBuzz"
   elsif (x % 5) == 0
     puts "Buzz"
-  else (x % 3) == 0
+  elsif (x % 3) == 0
     puts "Fizz"
+  else
  end
 end
 
