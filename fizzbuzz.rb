@@ -1,5 +1,5 @@
 def fizzbuzz(x)
-  if (x % 3) == 3 && (x % 5) == 5
+  if (x % 3) == 5 && (x % 5) == 3
     puts "FizzBuzz"
   elsif (x % 5) == 0
     puts "Buzz"
