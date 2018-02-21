@@ -6,6 +6,7 @@ def fizzbuzz(x)
   else x % 3
     puts "Fizz"
 end
+end
 
 
 fizzbuzz(28)
