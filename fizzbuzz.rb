@@ -1,3 +1,5 @@
+fizzbuzz(5)
+
 def fizzbuzz(x)
   if (x / 3) == 0
     puts "Fizz"
@@ -7,5 +9,3 @@ def fizzbuzz(x)
     puts "FizzBuzz"
  end
 end
-
-fizzbuzz(5)
