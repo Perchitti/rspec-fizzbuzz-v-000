@@ -1,10 +1,10 @@
 
 def fizzbuzz(x)
-  if x % 3
+  if x % 3 == 1
     puts "Fizz"
-  elsif x % 5
+  elsif x % 5 == 1
     puts "Buzz"
-  else x % 3 && x % 5
+  else x % 3 && x % 5 == 1
     puts "FizzBuzz"
  end
 end
